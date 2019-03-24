@@ -35,12 +35,12 @@ The data we'll be using comes from the sklearn datasets of iris flowers.
 - `petal width`
 - `sepal length`
 - `sepal width`
-- `species` https://github.com/shashank136/Iris-Flower-Hierarchical-Clustering
+- `species` 
 
-![png](https://github.com/shashank136/Iris-Flower-Hierarchical-Clustering/blob/master/image/image.png)
+![png](https://github.com/shashank136/Iris-Flower-Hierarchical-Clustering/blob/master/images/image.png)
 
 ### clustering Techniques used
 
-#### Ward's Method
-#### Average-link Method
-#### Complete-link
+- Ward's Method
+- Average-link Method
+- Complete-link
