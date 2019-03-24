@@ -28,7 +28,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
-The data we'll be using comes from the sklearn datasets of iris flowers. 
+The data we'll be using comes from the sklearn datasets of iris flowers(3 types). 
 
 **Features**
 - `petal length`
